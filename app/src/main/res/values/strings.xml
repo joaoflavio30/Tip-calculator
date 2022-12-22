@@ -7,6 +7,8 @@
     <string name="btn_round4">Ok (15%)</string>
     <string name="cost">How was the service ?</string>
     <string name="cost_input">Cost of service</string>
-    <string name="amount">Tip Amount</string>
+    <string name="tip_amount">Tip Amount</string>
+    <string name="amount">Tip Amount : %s</string>
+
 
 </resources>
