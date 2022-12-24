@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
 
 
     private fun calculateTip() {
-        var inputText = binding.editTextTextPersonName.text.toString().toDoubleOrNull()
+        var inputText = binding.editText.text.toString().toDoubleOrNull()
         if (inputText == null) {
             displayTip(0.0)
             return
